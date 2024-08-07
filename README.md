@@ -13,6 +13,6 @@ Sou Flavio Benfica, sou líder de produção em uma rede de pastelarias, estou a
 Siga me nas redes sociais:
 <br>
 
-<a href="[https://www.facebook.com/me/](https://www.facebook.com/share/ibozkN3SRXcbtp3D/?mibextid=qi2Omg)"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"><a/>
+<a href="https://www.facebook.com/share/ibozkN3SRXcbtp3D/?mibextid=qi2Omg"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"><a/>
 <a href="https://www.instagram.com/fbenficaa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="www.linkedin.com/in/flávio-benfica-aa1912167"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
